@@ -1,0 +1,15 @@
+/home/misha/Desktop/Finalwork/Final_work/bin/Debug/net6.0/Final_work
+/home/misha/Desktop/Finalwork/Final_work/bin/Debug/net6.0/Final_work.deps.json
+/home/misha/Desktop/Finalwork/Final_work/bin/Debug/net6.0/Final_work.runtimeconfig.json
+/home/misha/Desktop/Finalwork/Final_work/bin/Debug/net6.0/Final_work.dll
+/home/misha/Desktop/Finalwork/Final_work/bin/Debug/net6.0/Final_work.pdb
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.csproj.AssemblyReference.cache
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.GeneratedMSBuildEditorConfig.editorconfig
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.AssemblyInfoInputs.cache
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.AssemblyInfo.cs
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.csproj.CoreCompileInputs.cache
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.dll
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/refint/Final_work.dll
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.pdb
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/Final_work.genruntimeconfig.cache
+/home/misha/Desktop/Finalwork/Final_work/obj/Debug/net6.0/ref/Final_work.dll
